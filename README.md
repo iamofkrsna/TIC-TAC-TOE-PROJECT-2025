@@ -3,6 +3,3 @@ It is my first web development project.
 
 
 TIC TAC TOE 
-     __| |__
-     __| |__
-       | |
